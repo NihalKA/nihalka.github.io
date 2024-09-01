@@ -33,6 +33,6 @@
 - Performed routine maintenance tasks, such as software updates, system patches, and backups, to optimize system performance and security.
 - Created detailed documentation of system configurations, troubleshooting procedures, and user guides.
 
-## Publications
+## Certifications
 HashiCorp Terraform Associate HCTA0-003
 ID: 1d456f8c-7e46-4507-9bfa-6575c6df53bc (Aug 2024 - Aug 2026)
